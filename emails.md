@@ -24,11 +24,11 @@ What is wrong?
 
 ### Email 2
 
-Subject: The first ad is the one to mark up
+Subject: The new ad is the one to mark up
 
 Phi,
 
-Look at the ad that says "What do you want to know?" It is the first frame in the room: https://www.harshitsoni.com/cq-packets/phi/#ad-a
+Look at the paid ad that says "The answer, with the source." https://www.harshitsoni.com/cq-packets/phi/#ad-source
 
 It is saved as a draft. Nothing sends until a person approves.
 
@@ -70,7 +70,7 @@ Subject: The 7.5% ad is the one to mark up
 
 Jon,
 
-Look at the launch ad that says "Saves 7.5% in the first year." https://www.harshitsoni.com/cq-packets/jon/#launch-a
+Look at the new launch ad that says "Saves 7.5% in the first year." https://www.harshitsoni.com/cq-packets/jon/#launch-a
 
 It is saved as a draft. Nothing sends until a person approves.
 
@@ -112,7 +112,7 @@ Subject: The launch page is the one to mark up
 
 Ken,
 
-Look at the landing page: https://www.harshitsoni.com/cq-packets/ken/#landing
+Look at the new launch page, "Bolt launches. The team keeps the brand." https://www.harshitsoni.com/cq-packets/ken/#landing
 
 It is saved as a draft. Nothing sends until a person approves.
 
