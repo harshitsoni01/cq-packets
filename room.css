@@ -82,7 +82,7 @@ h1 {
 .e451 { background: #fff; color: #25383f; border: 1px solid #ece7df; }
 .e451 h2 { font-weight: 300; font-size: 36px; }
 .e451 h2 em { font-style: italic; color: #fe5000; font-weight: 300; }
-.e451 .btn { background: #fe5000; color: #fff; }
+.e451 .btn, .page .btn { background: #fe5000; color: #fff; }
 .logo { height: 22px; width: auto; display: block; }
 .logo.wide { width: 210px; height: auto; }
 .mail {
