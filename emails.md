@@ -132,6 +132,6 @@ Ken,
 
 Note for whoever you send this to:
 
-The homepage heading is the starting point only, seen 2026-11-19. The launch page is for Bolt Agent Platform. Two ads use that template, one for Element AI CRM and one for Bolt Agent Platform. Both names are on the posting. The headline "Bolt launches. The team keeps the brand." and the button "See the launch" are not. The posting asks for landing pages and paid creative for product launches, from templates. Source: https://jobs.ashbyhq.com/element451/5a7f61e6-46db-4145-a9f9-cdd575f1af5f Date: 2026-11-19. The posting does not name Ken. Nothing has been sent. Room: https://www.harshitsoni.com/cq-packets/ken/
+The homepage heading is the starting point only, seen 2026-11-19. The launch page is for Bolt Agent Platform. Two ads use that template, one for Element AI CRM and one for Bolt Agent Platform. Both names are on the posting. The headline "Bolt launches. The team keeps the brand." and the button "See the launch" are not on the homepage or the posting. The posting asks for landing pages and paid creative for product launches, from templates. Source: https://jobs.ashbyhq.com/element451/5a7f61e6-46db-4145-a9f9-cdd575f1af5f Date: 2026-11-19. The posting does not name Ken. Nothing has been sent. Room: https://www.harshitsoni.com/cq-packets/ken/
 
 Could we look at what is wrong for 20 minutes this week?
