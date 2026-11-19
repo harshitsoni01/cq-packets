@@ -6,21 +6,17 @@ No address is included. Nothing has been sent.
 
 ### Email 1
 
-Subject: One new line, one frame
+Subject: Fast answers. The source stays on the page.
 
 Phi,
 
-The room is here: https://www.harshitsoni.com/cq-packets/phi/
+The paid ad says "Fast answers. The source stays on the page." The button says "Ask with the source."
 
-The starting point is the homepage line, seen 2026-11-19: "What do you want to know?" and "Search anything." It is not a live ad.
+It is saved. Nothing sends until a person approves.
 
-The new paid ad and the matching lifecycle email keep that frame. The line is "The answer, with the source." The button is "See the source." Those two strings are not on the homepage or the posting.
+https://www.harshitsoni.com/cq-packets/phi/
 
-The posting that names paid ads and lifecycle email: https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860
-
-That page does not name you. There is also a public episode titled "Phi Hoang - Creativity, Midjourney, and the future of brand design": https://www.youtube.com/watch?v=RsawLFNLAIw
-
-No transcript was captured, so this does not claim what you said.
+https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860
 
 What is wrong?
 
@@ -30,11 +26,11 @@ Subject: The new ad is the one to mark up
 
 Phi,
 
-Look at the paid ad that says "The answer, with the source." https://www.harshitsoni.com/cq-packets/phi/#ad-source
+Look at the paid ad that says "Fast answers. The source stays on the page." https://www.harshitsoni.com/cq-packets/phi/#ad-source
 
-It is saved as a draft. Nothing sends until a person approves.
+It is saved. Nothing sends until a person approves.
 
-The posting that names paid ads and lifecycle email: https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860
+https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860
 
 ### Email 3
 
@@ -42,29 +38,25 @@ Subject: A note you can forward
 
 Phi,
 
-Note for whoever you send this to:
+The paid ad and the matching email say "Fast answers. The source stays on the page," and the button says "Ask with the source." It is saved, and nothing sends until a person approves. The room is https://www.harshitsoni.com/cq-packets/phi/ and the posting is https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860
 
-The homepage line is the starting point, seen 2026-11-19, and it is not a live ad. The new paid ad and the matching lifecycle email keep that frame. The line is "The answer, with the source." The button is "See the source." Those words are not on the posting. The posting names paid ads and lifecycle email, and says an off-brand asset should not ship just to win a test. Source: https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860 Date: 2026-11-19. The posting does not name Phi. Nothing has been sent. Room: https://www.harshitsoni.com/cq-packets/phi/
-
-Could we look at what is wrong for 20 minutes this week?
+What is wrong?
 
 ## Jon Howell, Ramp
 
 ### Email 1
 
-Subject: Two launch lines, one card
+Subject: Year one saves 7.5%.
 
 Jon,
 
-The room is here: https://www.harshitsoni.com/cq-packets/jon/
+One ad says "Year one saves 7.5%." The other says "Year one grows revenue 16%."
 
-The starting point is the homepage heading, seen 2026-11-19: "Time is money. Save both." It is not a live ad.
+It is saved. Nothing sends until a person approves.
 
-Two launch ads. The card and the button stay. The lines are "Saves 7.5% in the first year." and "Grows revenue 16% in the first year." The figures are on the posting. Using each half as its own line is not something the posting says to do.
+https://www.harshitsoni.com/cq-packets/jon/
 
-The posting: https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17
-
-That page does not name you.
+https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17
 
 What is wrong?
 
@@ -74,11 +66,11 @@ Subject: The 7.5% ad is the one to mark up
 
 Jon,
 
-Look at the new launch ad that says "Saves 7.5% in the first year." https://www.harshitsoni.com/cq-packets/jon/#launch-a
+Look at the ad that says "Year one saves 7.5%." https://www.harshitsoni.com/cq-packets/jon/#launch-a
 
-It is saved as a draft. Nothing sends until a person approves.
+It is saved. Nothing sends until a person approves.
 
-The sentence those figures come from is on https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17
+https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17
 
 ### Email 3
 
@@ -86,29 +78,25 @@ Subject: A note you can forward
 
 Jon,
 
-Note for whoever you send this to:
+One ad says "Year one saves 7.5%," and the other says "Year one grows revenue 16%." It is saved, and nothing sends until a person approves. The room is https://www.harshitsoni.com/cq-packets/jon/ and the posting is https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17
 
-The homepage heading is the starting point, seen 2026-11-19, and it is not a live ad. Two launch ads keep one card and one button. The lines are the two halves of the first-year sentence on the posting: 7.5% saved, and 16% revenue growth. The posting asks for campaigns and launches, and for one standard of typography, imagery, and layout. It does not say to split that sentence into two ads. Source: https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17 Date: 2026-11-19. The posting does not name Jon. Nothing has been sent. Room: https://www.harshitsoni.com/cq-packets/jon/
-
-Could we look at what is wrong for 20 minutes this week?
+What is wrong?
 
 ## Ken Yanhs, Element451
 
 ### Email 1
 
-Subject: One launch page, two ads
+Subject: Bolt Agent Platform is live.
 
 Ken,
 
-The room is here: https://www.harshitsoni.com/cq-packets/ken/
+The launch page says "Bolt Agent Platform is live." One ad says "Element AI CRM is live." The other says "Bolt Agent Platform is live."
 
-The homepage heading is the starting point only, seen 2026-11-19. It is not the launch page.
+It is saved. Nothing sends until a person approves.
 
-The new page is for Bolt Agent Platform. The headline is "Bolt launches. The team keeps the brand." The button is "See the launch." Those are not on the homepage or the posting. Two ads use that template, one for Element AI CRM and one for Bolt Agent Platform. Both names are on the posting.
+https://www.harshitsoni.com/cq-packets/ken/
 
-The posting: https://jobs.ashbyhq.com/element451/5a7f61e6-46db-4145-a9f9-cdd575f1af5f
-
-That page does not name you.
+https://jobs.ashbyhq.com/element451/5a7f61e6-46db-4145-a9f9-cdd575f1af5f
 
 What is wrong?
 
@@ -118,11 +106,11 @@ Subject: The launch page is the one to mark up
 
 Ken,
 
-Look at the new launch page, "Bolt launches. The team keeps the brand." https://www.harshitsoni.com/cq-packets/ken/#landing
+Look at the page that says "Bolt Agent Platform is live." https://www.harshitsoni.com/cq-packets/ken/#landing
 
-It is saved as a draft. Nothing sends until a person approves.
+It is saved. Nothing sends until a person approves.
 
-The posting: https://jobs.ashbyhq.com/element451/5a7f61e6-46db-4145-a9f9-cdd575f1af5f
+https://jobs.ashbyhq.com/element451/5a7f61e6-46db-4145-a9f9-cdd575f1af5f
 
 ### Email 3
 
@@ -130,8 +118,6 @@ Subject: A note you can forward
 
 Ken,
 
-Note for whoever you send this to:
+The launch page says "Bolt Agent Platform is live," one ad says "Element AI CRM is live," and the other ad says "Bolt Agent Platform is live." It is saved, and nothing sends until a person approves. The room is https://www.harshitsoni.com/cq-packets/ken/ and the posting is https://jobs.ashbyhq.com/element451/5a7f61e6-46db-4145-a9f9-cdd575f1af5f
 
-The homepage heading is the starting point only, seen 2026-11-19. The launch page is for Bolt Agent Platform. Two ads use that template, one for Element AI CRM and one for Bolt Agent Platform. Both names are on the posting. The headline "Bolt launches. The team keeps the brand." and the button "See the launch" are not on the homepage or the posting. The posting asks for landing pages and paid creative for product launches, from templates. Source: https://jobs.ashbyhq.com/element451/5a7f61e6-46db-4145-a9f9-cdd575f1af5f Date: 2026-11-19. The posting does not name Ken. Nothing has been sent. Room: https://www.harshitsoni.com/cq-packets/ken/
-
-Could we look at what is wrong for 20 minutes this week?
+What is wrong?
