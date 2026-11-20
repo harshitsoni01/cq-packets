@@ -41,7 +41,6 @@ section h2 { font-size: clamp(28px, 4vw, 40px); line-height: 1.1; letter-spacing
   background: #eeeae3;
 }
 .ad {
-  aspect-ratio: 1;
   width: min(100%, 420px);
   border-radius: 16px;
   padding: 28px;
@@ -135,7 +134,7 @@ button.send { background: #f3f1ec; color: #8a847b; border: 0; border-radius: 8px
 .ken .topbar, .ken .hero { background: #25383f; color: #fff; }
 .ken .tag, .ken .hero p { color: rgba(255,255,255,0.72); }
 .ken .step { color: #fe5000; }
-.ad.e451 { background: #fff; color: #25383f; border: 1px solid #ece7df; aspect-ratio: 1; min-height: 0; }
+.ad.e451 { background: #fff; color: #25383f; border: 1px solid #ece7df; }
 .e451 h3, .page h3 { font-weight: 360; }
 .ad.e451 h3 { font-size: 30px; }
 .ad.e451 .logo.wide { width: 150px; }
